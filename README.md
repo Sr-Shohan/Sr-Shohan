@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sr-Shohan
-- 👀 I’m interested in FullStack Development, Cryptocurrencies.
-- 🌱 I’m currently learning JavaScript,React js, React Native, Node Js.
+- 👀 I’m interested and passionated about SQA, Cryptocurrencies.
+- 🌱 I’m currently working on Python, JavaScript, Selenium, POSTMAN.
 - 📫 How to reach me  shohanur.swe@gmail.com
 
 <!---
