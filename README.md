@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sr-Shohan
 - 👀 I’m interested and passionated about SQA, Cryptocurrencies.
-- 🌱 I’m currently working on Python, JavaScript, Selenium, POSTMAN.
+- 🌱 I’m currently working on Python, JavaScript, Selenium, API Testing, Security Testing.
 - 📫 How to reach me  shohanur.swe@gmail.com
 
 <!---
